@@ -1,0 +1,47 @@
+[
+  {
+    "timestamp": "2025-06-27T21:24:08.928158",
+    "query": "what is the culture of the company?",
+    "answer": "Based on the extracted text, it appears that the company culture is centered around the following core values and principles:\n\n1. Openness: The company values transparency and openness, which is reflected in phrases such as \"Open culture\" and \"Encourage Positivity & Promote Honesty.\"\n2. Collaboration and Friendship: The company aims to create a sense of community and camaraderie among its employees, with phrases like \"Be like Friends & correcting each other\" suggesting a collaborative and supportive work environment.\n3. Ownership and Accountability: Employees are encouraged to take ownership of their growth and the organization's success, as reflected in phrases such as \"Take ownership for organization\u2019s growth\" and \"Do what is right for the team.\"\n4. Positivity and Inclusivity: The company values positivity, honesty, and inclusivity, with a focus on inspiring others and being flexible.\n5. Gratitude and Appreciation: Notes of gratitude are encouraged to promote a positive and appreciative work environment.\n\nOverall, the company culture appears to be built around these core values, which aim to foster a collaborative, supportive, and inclusive work environment that encourages employees to grow and succeed.",
+    "sources": [
+      "Company Culture.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-27T21:26:47.625718",
+    "query": "what are the different leaves available to the employees according to the handbook?",
+    "answer": "According to the Employee Handbook_V3.pdf (Page 1), there are at least three types of leaves available to employees:\n\n1. Compensatory Off: This leave is granted in case an employee works on holidays or over the weekends for a business need.\n2. Maternity Leave: This leave is available to female employees, and it can be availed in conjunction with other leaves. However, Maternity Leave is not en-cashable.\n\nAdditionally, the handbook mentions that there are other types of leaves available, but they are grouped under \"Un-Authorized Leaves\" on page 1 of the PDF. These include:\n\n* Leaves beyond the available balance without prior approvals\n* Leaves taken for reasons such as death in the family or medical emergencies (not specifically mentioned with a name)\n\nIt's also worth noting that the handbook mentions that employees do not need to apply for leave in certain situations, such as when they are on Compensatory Off or Maternity Leave. However, it does require prior approval and submission of medical reports from a registered medical practitioner for Maternity Leave.\n\nOverall, while the exact nature and specifics of other types of leaves are not clearly stated, the handbook provides some information about three distinct types of leave: Compensatory Off, Maternity Leave, and Un-Authorized Leaves.",
+    "sources": [
+      "Employee Handbook_V3.pdf"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-27T21:28:19.285591",
+    "query": "what is the certification policy",
+    "answer": "The certification policy at Parkar ensures that employees can obtain external training and certifications to achieve functional excellence. According to this policy, employees must obtain prior approvals for certification, including taxation.\n\nBefore enrolling in a certification program, employees are required to initiate discussions with their supervisors. The company will only cover the certification fee for a single attempt, but not expenses related to training, tuition, books, study materials, or coaching.\n\nThe policy also allows associates to apply for multiple certifications within a year, based on business needs. However, it reserves the right to revise, supplement, or rescind any provisions of the policy at its discretion.",
+    "sources": [
+      "Employee Handbook_V3.pdf"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-27T21:37:24.232591",
+    "query": "what is the culture?\n",
+    "answer": "Based on the extracted document text, it appears that the company culture emphasizes several core values. The most prominent theme that can be inferred from the provided text is a focus on openness, transparency, and positivity.\n\nSome of the specific values mentioned include:\n\n1. Encouraging Positivity and Promoting Honesty: This suggests a culture where individuals feel comfortable sharing their thoughts and opinions openly, and where honesty is valued.\n2. Being like Friends: The mention of \"being like friends\" implies a culture that prioritizes camaraderie, mutual respect, and support among team members.\n3. Taking Ownership for Organization's Growth: This value highlights the importance of individual accountability and responsibility within the organization.\n4. Doing What is Right for the Team and Being Flexible: This suggests a culture that values collaboration, adaptability, and a willingness to make decisions that benefit the team as a whole.\n\nThe repeated mention of \"Encourage Positivity & Promote Honesty\" throughout the document text also reinforces this idea, suggesting that these values are core to the company's culture.\n\nOverall, it seems that the company culture is built around creating an open, positive, and inclusive environment where individuals can grow and thrive together.",
+    "sources": [
+      "Company Culture.png"
+    ],
+    "detected_language": "en"
+  },
+  {
+    "timestamp": "2025-06-27T21:52:05.752375",
+    "query": "what is the culture of the organization?\n",
+    "answer": "Based on the provided document text, it appears that the organization values an open culture characterized by transparency, positivity, and inclusivity. The following core principles are evident:\n\n* Leaders are accessible and encourage a sense of community.\n* Positivity and honesty are promoted, along with recognizing and appreciating individual contributions through \"Notes of Gratitude.\"\n* Team members are encouraged to be like friends, correcting each other when necessary, and take ownership for the organization's growth.\n* The company values flexibility, doing what is right for the team, and inspiring others.\n\nIt seems that there might be some repetition in the text, as the same bullet points appear multiple times. However, this repetition could suggest that these principles are considered essential to the organization's culture.\n\nWhile there isn't a single, concise statement defining the company culture, the overall tone suggests a collaborative, supportive environment where leaders prioritize their team members' well-being and growth. The emphasis on positivity, gratitude, and inclusivity implies a strong focus on creating a harmonious and productive work environment.",
+    "sources": [
+      "Company Culture.png"
+    ],
+    "detected_language": "en"
+  }
+]
