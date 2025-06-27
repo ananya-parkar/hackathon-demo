@@ -1,0 +1,33 @@
+# Data and models
+uploads/
+vector_store/
+qa_log.json
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs and outputs
+*.log
+*.out
+*.pot
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Large files
+*.pdf
+*.docx
+*.jpg
+*.png
